@@ -1,0 +1,13 @@
+{
+  "name": "@benkrejci/spelling-bee-solver",
+  "version": "1.0.0",
+  "repository": "git@github.com:benkrejci/spelling-bee-solver.git",
+  "main": "solve.js",
+  "license": "MIT",
+  "bin": "./solve.js",
+  "dependencies": {
+    "an-array-of-english-words": "^2.0.0",
+    "term-size": "^2.2.1",
+    "wordlist-english": "^1.2.1"
+  }
+}
