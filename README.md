@@ -3,8 +3,7 @@ Solves the NY Times spelling bee
 
 ### Example:
 ```sh
-npx @benkrejci/spelling-bee-solver itapldu
-
+>npx @benkrejci/spelling-bee-solver itapldu
 Found 1 pangram, 40 "common" words, and 66 obscure words.
 
 PANGRAMS   COMMON WORDS      OBSCURE WORDS
