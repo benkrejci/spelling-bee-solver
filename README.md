@@ -1,5 +1,5 @@
 # spelling-bee-solver
-Solves the NY Times spelling bee
+Solves the NY Times spelling bee. Just supply all allowed letters (without spaces), starting with the center letter, as argument to the script.
 
 ### Example:
 ```sh
