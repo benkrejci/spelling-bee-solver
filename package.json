@@ -1,6 +1,6 @@
 {
   "name": "@benkrejci/spelling-bee-solver",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": "git@github.com:benkrejci/spelling-bee-solver.git",
   "main": "solve.js",
   "license": "MIT",
