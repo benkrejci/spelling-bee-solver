@@ -68,7 +68,7 @@ columnate(['PANGRAMS', pangrams], ['COMMON WORDS', commonMatches], ['OBSCURE WOR
 
 function sortWords(words) {
   words.sort()
-  words.sort((a, b) => b.length - a.length)
+  // words.sort((a, b) => b.length - a.length)
 }
 
 // for each group: list as many as can fit vertically, then add columns as necessary

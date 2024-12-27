@@ -4,15 +4,15 @@
 
 an-array-of-english-words@^2.0.0:
   version "2.0.0"
-  resolved "https://registry.yarnpkg.com/an-array-of-english-words/-/an-array-of-english-words-2.0.0.tgz#2d9de64929b864f1eff5bd53dead275ff1ac0c32"
+  resolved "https://registry.npmjs.org/an-array-of-english-words/-/an-array-of-english-words-2.0.0.tgz"
   integrity sha512-FXnNvZSOI27kkKXeLSquhaTGP7z198UOQ4txaYO9fCfrjCh+D5SV7G7XqzEH0229+pAi4cjBEZ4WIQYgjKtO7Q==
 
 term-size@^2.2.1:
   version "2.2.1"
-  resolved "https://registry.yarnpkg.com/term-size/-/term-size-2.2.1.tgz#2a6a54840432c2fb6320fea0f415531e90189f54"
+  resolved "https://registry.npmjs.org/term-size/-/term-size-2.2.1.tgz"
   integrity sha512-wK0Ri4fOGjv/XPy8SBHZChl8CM7uMc5VML7SqiQ0zG7+J5Vr+RMQDoHa2CNT6KHUnTGIXH34UDMkPzAUyapBZg==
 
 wordlist-english@^1.2.1:
   version "1.2.1"
-  resolved "https://registry.yarnpkg.com/wordlist-english/-/wordlist-english-1.2.1.tgz#7a76da3c7ac26919d80d1a54056c796830febdf7"
+  resolved "https://registry.npmjs.org/wordlist-english/-/wordlist-english-1.2.1.tgz"
   integrity sha512-vaiQQiu95UeON0WZFtiTrWfZmIiUd2rhrhMCBeEzwq3oTVzHCX8naGCqv/smSspE9kH2sN+E8lZyV0JZjqSzGw==
